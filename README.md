@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Priya 👋
 
-<!--
-**priya132005/priya132005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with interests in web development, C++, and open source projects.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 I’m a student pursuing Computer Science and Engineering at NIT Patna
+- 🔭 I’m currently working on: Full-stack web projects
+- 🌱 I’m currently learning: Docker, Next.js, and AI tools
+- 💬 Ask me about: React, Node.js,Next.Js, C++, and DSA
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](priya.kumari811101@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+
+C++, HTML5, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS
+
+
+
